@@ -16,7 +16,7 @@ import javafx.stage.Stage;
  * @carne 3190-13-12063
  * @version 1.0
  */
-public class NuevoContactoView extends AgendaView{
+public class NuevoView extends AgendaView{
     
     
     @Override
